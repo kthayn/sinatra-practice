@@ -1,4 +1,0 @@
-sinatra-practice
-================
-
-Learning Sinatra
